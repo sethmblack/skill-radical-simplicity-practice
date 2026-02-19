@@ -4,7 +4,7 @@ description: Apply St. Francis's path to freedom through voluntary poverty - ide
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4788
+  version: 1.0.4789
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - radical-simplicity-practice
